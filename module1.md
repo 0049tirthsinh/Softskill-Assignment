@@ -14,7 +14,7 @@ Thanks again, and please let me know if there's anything I can do.
 
 Best regards,
 Makwana Tirthsinh B.
----------------------------------------------------------------------------------------------
+
 2.Letter of Apology
 
 Subject: Apology for Missing the Last Lecture
@@ -29,7 +29,7 @@ Thank you for your understanding.
 
 Best regards,
 Makwana Tirthsinh B.
----------------------------------------------------------------------------------------------
+
 3. Reminder Email
 
 Subject: Friendly Reminder on Project Work
@@ -44,7 +44,7 @@ Looking forward to hearing from you.
 
 Best regards,
 Makwana Tiirthsinh B.
----------------------------------------------------------------------------------------------
+
 4.Email of Inquiry for Requesting Information
 
 Subject: Inquiry About Frontend Developer Course/Opportunities
@@ -61,7 +61,7 @@ Best regards,
 Mkawana Tirthsinh B.
 7884701484
 makavanatirth1234@gmail.com
----------------------------------------------------------------------------------------------
+
 5.Introduction Email to Client
 Subject: Introduction – Rohan Mehta from PixelTech Solutions
 
@@ -80,4 +80,3 @@ PixelTech Solutions
 +91 98765 43210
 rohan.mehta@pixeltech.in
 www.pixeltech.in
----------------------------------------------------------------------------------------------
